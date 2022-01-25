@@ -1,9 +1,21 @@
 header{
     width:100%;
-    background-color:lightgrey;
+    background: linear-gradient(
+    70deg,
+    rgb(182, 220, 221) 0%,
+    rgb(140, 184, 201) 21%,
+    rgb(150, 143, 187) 67%,
+    rgb(178, 128, 189) 100%
+  );
+    height:100px;
+}
+.active {
+   font-style:oblique;
+  font-weight: bold;
+  font-variant: initial;
 }
 span{
-    font-size: 55px;
+    font-size: 50px;
     font-family: 'Pacifico', cursive;
     margin-left:200px;
 }
@@ -21,7 +33,7 @@ span{
     float:left;
     background-blend-mode: soft-light;
     text-decoration:none;
-    color:saddlebrown;
+    color:black;
     margin-left: 50px;
 }
 .nav-item a:hover{

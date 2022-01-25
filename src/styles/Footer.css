@@ -1,9 +1,15 @@
 .Footer {
-    position: fixed;
+   position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color:lightgrey;
+   background: linear-gradient(
+    70deg,
+    rgb(182, 220, 221) 0%,
+    rgb(140, 184, 201) 21%,
+    rgb(150, 143, 187) 67%,
+    rgb(178, 128, 189) 100%
+  );
    color: white;
    padding:5px;
    text-align: center;
