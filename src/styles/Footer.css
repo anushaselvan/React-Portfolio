@@ -1,0 +1,18 @@
+.Footer {
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:rgb(228, 224, 194);
+   color: white;
+   padding:5px;
+   text-align: center;
+   justify-content: space-evenly;
+  }
+  .Footer a{
+      font-size: 20px;
+      text-decoration: none;
+      margin:5px;
+      justify-content: space-evenly;
+
+  }
