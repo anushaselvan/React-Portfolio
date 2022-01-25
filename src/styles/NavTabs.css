@@ -1,10 +1,9 @@
 header{
     width:100%;
-    background-color:rgb(228, 224, 194);
-    justify-content: space-evenly;
+    background-color:lightgrey;
 }
 span{
-    font-size: 70px;
+    font-size: 55px;
     font-family: 'Pacifico', cursive;
     margin-left:200px;
 }
@@ -12,7 +11,7 @@ span{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
     font-variant:small-caps;
     display: flex;
-    font-size: 40px;
+    font-size: 30px;
     float:right;
     list-style-type: none;
    margin-right:200px;
@@ -22,10 +21,9 @@ span{
     float:left;
     background-blend-mode: soft-light;
     text-decoration:none;
-    color:brown;
+    color:saddlebrown;
     margin-left: 50px;
 }
 .nav-item a:hover{
-    transform: scale(1.01);
-    font-weight: bolder;
+color: black;
 }

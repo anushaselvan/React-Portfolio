@@ -4,7 +4,7 @@ import '../../styles/Pages.css';
 
 export default function Work() {
   return (
-    <div>
+    <div class="page-style">
       <h1>Work</h1>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.

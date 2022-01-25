@@ -4,19 +4,16 @@ import '../../styles/Pages.css';
 
 export default function Home() {
   return (
-    <div>
+    <div class="page-style">
       <h1>About me</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+      After graduating in 2010 with a Bachelor's degree in Computer Science Engineering, I spent over two years performing software testing for a multi national company.
+      I acquired project and time management skills, as well as the ability to communicate with team members and clients while effectively meeting milestones and deadlines.<br></br>
+     I am currently doing a Coding Bootcamp in Monash University, to keep me up to date with the current technology.
+    I am a full stack developer with Express, Node and React expertise.I have worked on a multitude of web based projects, developing responsive layouts and providing
+      eCommerce solutions, product branding and graphic design. <br></br>These days my time is spent researching, designing and coding dynamic web applications. 
+      When I am not coding, I am definitely enjoying the great outdoors!
+
       </p>
     </div>
   );

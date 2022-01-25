@@ -3,7 +3,7 @@ import '../../styles/Pages.css';
 
 export default function Resume() {
   return (
-    <div>
+    <div class="page-style">
       <h1>Resume</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
